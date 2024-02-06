@@ -8,8 +8,8 @@ import (
 	"io"
 	"math"
 
-	"github.com/metarex-media/mrx-tool/essence"
-	"github.com/metarex-media/mrx-tool/klv"
+	"github.com/mmTristan/mrx-tool/essence"
+	"github.com/mmTristan/mrx-tool/klv"
 	"gitlab.com/mm-eng/generatedmrx"
 	"golang.org/x/sync/errgroup"
 	"gopkg.in/yaml.v3"

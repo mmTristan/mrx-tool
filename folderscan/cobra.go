@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/metarex-media/mrx-tool/encode"
+	"github.com/mmTristan/mrx-tool/encode"
 	"github.com/spf13/cobra"
 )
 

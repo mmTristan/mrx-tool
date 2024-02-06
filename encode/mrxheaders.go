@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/metarex-media/mrx-tool/essence"
+	"github.com/mmTristan/mrx-tool/essence"
 	"gitlab.com/mm-eng/generatedmrx"
 )
 

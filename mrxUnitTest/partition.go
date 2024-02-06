@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/metarex-media/mrx-tool/klv"
+	"github.com/mmTristan/mrx-tool/klv"
 
 	. "github.com/onsi/gomega"
 )
@@ -262,7 +262,6 @@ func (l *layout) ripHandle(rip *klv.KLV) {
 	defer tester.Result()
 	// res.Expect()
 	tester.TestRandomIndexPack(l.Rip, gotRip)
-
 
 }
 

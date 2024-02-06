@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/cbroglie/mustache"
-	"github.com/metarex-media/mrx-tool/encode"
+	"github.com/mmTristan/mrx-tool/encode"
 	. "github.com/smartystreets/goconvey/convey"
 )
 

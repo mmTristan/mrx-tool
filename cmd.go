@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/metarex-media/mrx-tool/decode"
-	"github.com/metarex-media/mrx-tool/folderscan"
-	"github.com/metarex-media/mrx-tool/versionstr"
+	"github.com/mmTristan/mrx-tool/decode"
+	"github.com/mmTristan/mrx-tool/folderscan"
+	"github.com/mmTristan/mrx-tool/versionstr"
 	"github.com/spf13/cobra"
 )
 

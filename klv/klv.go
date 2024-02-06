@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/metarex-media/mrx-tool/stream"
+	"github.com/mmTristan/mrx-tool/stream"
 	"golang.org/x/sync/errgroup"
 )
 

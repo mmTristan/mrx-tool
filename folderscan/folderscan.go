@@ -12,7 +12,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/metarex-media/mrx-tool/encode"
+	"github.com/mmTristan/mrx-tool/encode"
 	"golang.org/x/sync/errgroup"
 )
 

@@ -8,8 +8,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/metarex-media/mrx-tool/encode"
-	"github.com/metarex-media/mrx-tool/klv"
+	"github.com/mmTristan/mrx-tool/encode"
+	"github.com/mmTristan/mrx-tool/klv"
 	"golang.org/x/sync/errgroup"
 )
 

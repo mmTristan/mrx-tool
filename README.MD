@@ -16,7 +16,7 @@ This tool is designed for the following use cases.
 Using this tool allows you to understand the contents and requirements of the mrx files
 and it can let you generate mrx test vectors.
 
-Please check out the [Demo](https://github.com/metarex-media/mrx-demo),
+Please check out the [Demo](https://github.com/mmTristan/mrx-demo),
 which gives an introduction and walkthrough of the features and how to use them.
 
 ## getting the MRX Tool
